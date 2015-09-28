@@ -1,2 +1,2 @@
-# repoku
-tugas GitHub
+Nama:K.Edwin Bangun Laksono
+NPM : 14311164
